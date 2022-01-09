@@ -1,0 +1,3 @@
+cor: #d9c9e4
+
+letra: cooper Hewitt
